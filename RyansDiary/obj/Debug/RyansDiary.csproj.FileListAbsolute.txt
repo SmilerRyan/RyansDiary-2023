@@ -1,0 +1,20 @@
+C:\Users\Ryan\source\repos\RyansDiary\RyansDiary\bin\Debug\RyansDiary.exe.config
+C:\Users\Ryan\source\repos\RyansDiary\RyansDiary\bin\Debug\RyansDiary.exe
+C:\Users\Ryan\source\repos\RyansDiary\RyansDiary\bin\Debug\RyansDiary.pdb
+C:\Users\Ryan\source\repos\RyansDiary\RyansDiary\obj\Debug\RyansDiary.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\RyansDiary\RyansDiary\obj\Debug\RyansDiary.Properties.Resources.resources
+C:\Users\Ryan\source\repos\RyansDiary\RyansDiary\obj\Debug\RyansDiary.csproj.GenerateResource.cache
+C:\Users\Ryan\source\repos\RyansDiary\RyansDiary\obj\Debug\RyansDiary.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\RyansDiary\RyansDiary\obj\Debug\RyansDiary.exe
+C:\Users\Ryan\source\repos\RyansDiary\RyansDiary\obj\Debug\RyansDiary.pdb
+C:\Users\Ryan\source\repos\RyansDiary\RyansDiary\obj\Debug\RyansDiary.Form1.resources
+F:\Documents\Visual Studio Projects\RyansDiary\RyansDiary\bin\Debug\RyansDiary.exe.config
+F:\Documents\Visual Studio Projects\RyansDiary\RyansDiary\bin\Debug\RyansDiary.exe
+F:\Documents\Visual Studio Projects\RyansDiary\RyansDiary\bin\Debug\RyansDiary.pdb
+F:\Documents\Visual Studio Projects\RyansDiary\RyansDiary\obj\Debug\RyansDiary.csprojAssemblyReference.cache
+F:\Documents\Visual Studio Projects\RyansDiary\RyansDiary\obj\Debug\RyansDiary.Form1.resources
+F:\Documents\Visual Studio Projects\RyansDiary\RyansDiary\obj\Debug\RyansDiary.Properties.Resources.resources
+F:\Documents\Visual Studio Projects\RyansDiary\RyansDiary\obj\Debug\RyansDiary.csproj.GenerateResource.cache
+F:\Documents\Visual Studio Projects\RyansDiary\RyansDiary\obj\Debug\RyansDiary.csproj.CoreCompileInputs.cache
+F:\Documents\Visual Studio Projects\RyansDiary\RyansDiary\obj\Debug\RyansDiary.exe
+F:\Documents\Visual Studio Projects\RyansDiary\RyansDiary\obj\Debug\RyansDiary.pdb
