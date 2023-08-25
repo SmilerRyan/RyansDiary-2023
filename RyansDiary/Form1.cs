@@ -62,6 +62,7 @@ namespace RyansDiary
                 Rectangle workingArea = Screen.GetWorkingArea(this);
                 this.Location = new Point(workingArea.Right - 340, workingArea.Bottom - 340);
                 for (int i = 0; i < 300; i++) { this.Location = new Point(this.Location.X, this.Location.Y + 1); }
+                // TODO: Unfocus the window once it has gone down.
                 TypingMode = false;
             }
         }
