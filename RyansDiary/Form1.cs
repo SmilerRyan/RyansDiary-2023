@@ -6,6 +6,17 @@ using System.Runtime.InteropServices;
 
 namespace RyansDiary
 {
+    static class Program
+    {
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
+        }
+    }
+
     public partial class Form1 : Form {
         public Boolean TypingMode = false;
         public DateTime LastNote;
