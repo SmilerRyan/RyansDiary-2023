@@ -11,7 +11,7 @@
 
 ## Installation
 
-1. Place the application folder in a location of your choice (e.g., `Documents`).
+1. Place the application in a writable folder of your choice (e.g., `Documents\Notes`).
 2. Create a shortcut to the application executable.
 3. Move the shortcut to your system's startup folder:
    - On Windows: Press `Win + R`, type `shell:startup`, and press Enter.  
